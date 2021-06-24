@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "type": "light bulb",
+    "deviceName": "Brander",
+    "location": "Juana",
+    "isActive": true,
+    "lastStateChange": "1601761507000",
+    "value": 24
+  },
+  {
+    "id": 2,
+    "type":  "airConditionar",
+    "deviceName": "Ozzy",
+    "location": "Jonie",
+    "isActive": true,
+    "lastStateChange": "1594187449000",
+    "value":  20
+  },
+  {
+    "id": 3,
+    "type": "toothBrush",
+    "deviceName": "Mackenzie",
+    "location": "Hillier",
+    "isActive": true,
+    "lastStateChange": "1617798343000",
+    "value": 21
+  }
+]
